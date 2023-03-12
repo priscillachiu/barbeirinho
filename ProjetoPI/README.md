@@ -25,6 +25,9 @@
 ## Página de Login 
 ![System](/ProjetoPI/images/login.png)
 
+## Página de Cadastro
+![System](/ProjetoPI/images/cadastro.png)
+
 ## Página de Contato
 ![System](/ProjetoPI/images/contact.png)
 
